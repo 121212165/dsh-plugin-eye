@@ -1,0 +1,10 @@
+- insert:
+    - id: eye
+      name: dsh-plugin-eye
+      config:
+        enabled: true
+        # dataDir: ~/.dsh/eye
+        maxCaptures: 20      # captures 目录最多保留的截图（轮转）
+        allowScreen: true    # 截屏总开关
+        allowCamera: false   # 二期接口：默认禁用，启用时每次调用都提示
+        order: 780           # prompt section order (tools start at 1000)
