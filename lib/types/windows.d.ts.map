@@ -1,0 +1,1 @@
+{"version":3,"file":"windows.d.ts","sourceRoot":"","sources":["../../src/windows.ts"],"names":[],"mappings":"AAAA;;;GAGG;AAEH,MAAM,WAAW,MAAM;IACrB,GAAG,EAAE,MAAM,CAAC;IACZ,KAAK,EAAE,MAAM,CAAC;IACd,MAAM,EAAE,OAAO,CAAC;CACjB;AAED,wBAAgB,eAAe,CAAC,IAAI,EAAE,MAAM,GAAG,MAAM,EAAE,CAsBtD;AAED,wBAAgB,gBAAgB,CAAC,IAAI,EAAE,MAAM,EAAE,GAAG,MAAM,CAUvD"}
